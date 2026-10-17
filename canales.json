@@ -1,0 +1,175 @@
+[
+  {
+    "nombre": "Canal 1",
+    "numero": "1",
+    "url": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8"
+  },
+  {
+    "nombre": "Canal 2",
+    "numero": "2",
+    "url": "http://server2grupocam.com:1943/megavision/MV/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 4",
+    "numero": "4",
+    "url": "https://hls.tvabierta.net/hls/004.m3u8"
+  },
+  {
+    "nombre": "Canal 5",
+    "numero": "5",
+    "url": "https://live2.telemicro.com.do/live/55/chunks.m3u8",
+    "esTelemicro": true
+  },
+  {
+    "nombre": "Canal 6",
+    "numero": "6",
+    "url": "https://stream.elseis.do/canal6/master.m3u8"
+  },
+  {
+    "nombre": "Canal 7",
+    "numero": "7",
+    "url": "https://d2h2wh04y3aqtb.cloudfront.net/hls/1odfmwd056bc/3_4/index.m3u8"
+  },
+  {
+    "nombre": "Canal 8",
+    "numero": "8",
+    "url": "https://ds.tvabierta.net/memfs/c64099fa-9b8a-4544-b0b1-40c7c0af49d2_output_0.m3u8?session=o6ZkZmMtuVdRCWqUSxJD4U"
+  },
+  {
+    "nombre": "Canal 9",
+    "numero": "9",
+    "url": "https://hls.tvabierta.net/hls/009.m3u8"
+  },
+  {
+    "nombre": "Canal 10",
+    "numero": "10",
+    "url": "https://hls.tvabierta.net/hls/010.m3u8"
+  },
+  {
+    "nombre": "Canal 11",
+    "numero": "11",
+    "url": "https://hls.tvabierta.net/hls/010.m3u8"
+  },
+  {
+    "nombre": "Canal 12",
+    "numero": "12",
+    "url": "https://hls.tvabierta.net/hls/012.m3u8"
+  },
+  {
+    "nombre": "Canal 13",
+    "numero": "13",
+    "url": "https://live2.telemicro.com.do/live/telecentrocast_1080p/chunks.m3u8",
+    "esTelemicro": true
+  },
+  {
+    "nombre": "Canal 14",
+    "numero": "14",
+    "url": "https://stream.haislin.com/14tv/index.m3u8"
+  },
+  {
+    "nombre": "Canal 15",
+    "numero": "15",
+    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/chunks.m3u8",
+    "esTelemicro": true
+  },
+  {
+    "nombre": "Canal 16",
+    "numero": "16",
+    "url": "https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "nombre": "Canal 17",
+    "numero": "17",
+    "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 18",
+    "numero": "18",
+    "url": "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 19",
+    "numero": "19",
+    "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 21",
+    "numero": "21",
+    "url": "https://hls.tvabierta.net/hls/021.m3u8"
+  },
+  {
+    "nombre": "Canal 23",
+    "numero": "23",
+    "url": "https://hls.tvabierta.net/hls/023.m3u8"
+  },
+  {
+    "nombre": "Canal 25",
+    "numero": "25",
+    "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
+  },
+  {
+    "nombre": "Canal 27",
+    "numero": "27",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 28",
+    "numero": "28",
+    "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8"
+  },
+  {
+    "nombre": "Canal 32",
+    "numero": "32",
+    "url": "https://edge.livestreaminggroup.info/vtv32live/index.fmp4.m3u8"
+  },
+  {
+    "nombre": "Canal 33",
+    "numero": "33",
+    "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal 36",
+    "numero": "36",
+    "url": "https://hls.tvabierta.net/hls/037.m3u8"
+  },
+  {
+    "nombre": "Canal 37",
+    "numero": "37",
+    "url": "https://hls.tvabierta.net/hls/037.m3u8"
+  },
+   {
+    "nombre": "Canal 39",
+    "numero": "39",
+    "url": "http://190.122.104.210:5080/LiveApp/streams/coral391.m3u8"
+  },
+  {
+    "nombre": "Canal 51",
+    "numero": "51",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+  },
+  {
+    "nombre": "Canal 63",
+    "numero": "63",
+    "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8"
+  },
+  {
+    "nombre": "Canal UFC",
+    "numero": "UFC",
+    "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
+  },
+  {
+    "nombre": "Canal LATINOSTV",
+    "numero": "LATINOSTV",
+    "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w982326125.m3u8"
+  },
+  {
+    "nombre": "TELENORT10",
+    "numero": "TELENORT10",
+    "url": "https://cdnfox.hostlagarto.com/telenord10/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "nombre": "TELENORT8",
+    "numero": "TELENORT8",
+    "url": "https://cdnfox.hostlagarto.com/telenord8/tracks-v1a1/mono.m3u8"
+  }
+]
