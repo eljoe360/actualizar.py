@@ -1,0 +1,30 @@
+name: Comprobar Canales JSON
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script de verificación
+        run: python actualizar.py
+
+      - name: Guardar cambios en el repositorio
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Comprobación automática de estado de enlaces JSON"
+          branch: main
